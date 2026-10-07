@@ -1,0 +1,14 @@
+.disclaimer {
+  background: #f5f0eb;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+.disclaimer strong {
+  color: var(--text);
+}

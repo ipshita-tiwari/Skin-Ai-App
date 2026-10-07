@@ -1,0 +1,760 @@
+{
+  "dry_skin": {
+    "name": "Dry Skin",
+    "description": "Skin that feels tight, flaky, or lacking in oils. Commonly supported with humectants and barrier lipids.",
+    "aliases": [
+      "dry skin",
+      "dry face",
+      "skin feels dry",
+      "very dry",
+      "tight skin",
+      "flaky skin",
+      "flakes",
+      "rough dry skin",
+      "cracked skin",
+      "ashy skin",
+      "peeling skin",
+      "skin feels tight after washing"
+    ],
+    "usage_guidance": "Use a gentle cleanser, layer a hydrating serum on damp skin, then seal with a ceramide-rich moisturizer. Avoid harsh foaming washes.",
+    "warnings": ["Avoid high-strength acids or retinoids until the barrier feels more comfortable."],
+    "ingredients": [
+      {
+        "name": "Hyaluronic Acid",
+        "benefit": "May help attract and hold water so skin feels more hydrated.",
+        "priority": 1,
+        "usage": "Apply to damp skin in the morning and evening.",
+        "caution": ""
+      },
+      {
+        "name": "Ceramides",
+        "benefit": "Can support the skin barrier and help reduce moisture loss.",
+        "priority": 2,
+        "usage": "Look for in moisturizer, morning and night.",
+        "caution": ""
+      },
+      {
+        "name": "Glycerin",
+        "benefit": "A common humectant that may help draw moisture into the skin.",
+        "priority": 3,
+        "usage": "Often in cleansers and moisturizers; use daily.",
+        "caution": ""
+      },
+      {
+        "name": "Squalane",
+        "benefit": "A lightweight oil that may help soften dry-feeling skin.",
+        "priority": 4,
+        "usage": "Use in moisturizer or as a few drops at night.",
+        "caution": ""
+      }
+    ]
+  },
+  "dehydrated_skin": {
+    "name": "Dehydrated Skin",
+    "description": "Skin that lacks water (can still look oily). Often feels tight after cleansing.",
+    "aliases": [
+      "dehydrated",
+      "dehydration",
+      "skin feels tight after washing",
+      "tight after cleansing",
+      "needs water",
+      "lacks moisture",
+      "parched skin",
+      "thirsty skin"
+    ],
+    "usage_guidance": "Focus on water-binding ingredients, then seal with moisturizer. Drink water and avoid over-cleansing.",
+    "warnings": ["Dehydration is different from dry (oil-poor) skin; lightweight gels can still help oily-dehydrated skin."],
+    "ingredients": [
+      {
+        "name": "Hyaluronic Acid",
+        "benefit": "May help the skin hold onto water.",
+        "priority": 1,
+        "usage": "Apply to damp skin, then moisturizer.",
+        "caution": ""
+      },
+      {
+        "name": "Glycerin",
+        "benefit": "Can support hydration in cleansers and leave-on products.",
+        "priority": 2,
+        "usage": "Daily in cleanser or moisturizer.",
+        "caution": ""
+      },
+      {
+        "name": "Ceramides",
+        "benefit": "May help keep hydration from evaporating.",
+        "priority": 3,
+        "usage": "Use in moisturizer twice daily.",
+        "caution": ""
+      }
+    ]
+  },
+  "dullness": {
+    "name": "Dullness",
+    "description": "Skin that looks tired, lifeless, or lacking glow.",
+    "aliases": [
+      "dull",
+      "dullness",
+      "lifeless",
+      "skin looks lifeless",
+      "no glow",
+      "tired looking",
+      "lackluster",
+      "sallow",
+      "doesn't look bright",
+      "does not look bright"
+    ],
+    "usage_guidance": "Daily sunscreen plus a gentle antioxidant in the morning is commonly used to support a brighter-looking complexion.",
+    "warnings": ["Vitamin C can sting very sensitive skin; start with a lower-strength or derivative formula."],
+    "ingredients": [
+      {
+        "name": "Vitamin C",
+        "benefit": "Commonly used to support a brighter-looking appearance.",
+        "priority": 1,
+        "usage": "Morning, under sunscreen.",
+        "caution": "Can irritate sensitive skin; patch test."
+      },
+      {
+        "name": "Niacinamide",
+        "benefit": "May help improve the look of uneven, tired-looking skin.",
+        "priority": 2,
+        "usage": "Morning or night, 2–5% if new to it.",
+        "caution": ""
+      },
+      {
+        "name": "Alpha Arbutin",
+        "benefit": "Can support a more even-looking tone over time.",
+        "priority": 3,
+        "usage": "Night or morning on clean skin.",
+        "caution": ""
+      }
+    ]
+  },
+  "uneven_skin_tone": {
+    "name": "Uneven Skin Tone",
+    "description": "Patchy or blotchy-looking tone. Often discussed with discoloration, not a medical diagnosis.",
+    "aliases": [
+      "uneven skin tone",
+      "uneven tone",
+      "blotchy",
+      "patchy tone",
+      "uneven complexion",
+      "discoloration",
+      "uneven colour",
+      "uneven color"
+    ],
+    "usage_guidance": "Consistent sunscreen is essential. Pair with niacinamide or vitamin C. Avoid stacking many brightening actives at once.",
+    "warnings": ["Daily SPF is important when using brightening ingredients."],
+    "ingredients": [
+      {
+        "name": "Niacinamide",
+        "benefit": "May help the appearance of uneven tone.",
+        "priority": 1,
+        "usage": "Daily, morning or night.",
+        "caution": ""
+      },
+      {
+        "name": "Vitamin C",
+        "benefit": "Commonly used to support a more even-looking complexion.",
+        "priority": 2,
+        "usage": "Morning under sunscreen.",
+        "caution": "Can sting; start slowly if sensitive."
+      },
+      {
+        "name": "Alpha Arbutin",
+        "benefit": "Can support the look of discoloration over time.",
+        "priority": 3,
+        "usage": "Once daily on affected-looking areas.",
+        "caution": ""
+      }
+    ]
+  },
+  "dark_spots": {
+    "name": "Dark Spots",
+    "description": "Marks or patches that look darker than surrounding skin, including marks that appear after breakouts.",
+    "aliases": [
+      "dark spots",
+      "dark marks",
+      "dark marks left after acne",
+      "post acne marks",
+      "post-acne marks",
+      "acne marks",
+      "brown spots",
+      "hyperpigmentation",
+      "pigmentation",
+      "age spots",
+      "sun spots",
+      "leftover marks"
+    ],
+    "usage_guidance": "Use sunscreen every morning. Introduce one brightening ingredient at a time.",
+    "warnings": ["Do not combine several strong brighteners plus acids without buffering. Results take weeks, not days."],
+    "ingredients": [
+      {
+        "name": "Vitamin C",
+        "benefit": "May help improve the appearance of dark spots with consistent use and SPF.",
+        "priority": 1,
+        "usage": "Morning under sunscreen.",
+        "caution": "Can irritate; patch test."
+      },
+      {
+        "name": "Alpha Arbutin",
+        "benefit": "Commonly used to support a more even-looking tone.",
+        "priority": 2,
+        "usage": "Night or morning.",
+        "caution": ""
+      },
+      {
+        "name": "Azelaic Acid",
+        "benefit": "Can support the look of marks and redness in some routines.",
+        "priority": 3,
+        "usage": "Start a few nights per week, 10% leave-on if tolerated.",
+        "caution": "May tingle; stop if persistent burning."
+      }
+    ]
+  },
+  "acne": {
+    "name": "Acne",
+    "description": "Breakouts such as pimples. This is not a diagnosis of acne severity or type.",
+    "aliases": [
+      "acne",
+      "pimples",
+      "pimple",
+      "breakouts",
+      "breakout",
+      "zits",
+      "spots on face",
+      "keep getting pimples",
+      "i keep getting pimples",
+      "clogged pores",
+      "inflamed spots"
+    ],
+    "usage_guidance": "Keep cleanser gentle. Use one pore-clearing or calming active, then moisturizer. Do not pick.",
+    "warnings": [
+      "Avoid stacking salicylic acid, benzoyl peroxide, and retinoids on the same night.",
+      "Cystic, painful, or scarring breakouts should be reviewed by a dermatologist."
+    ],
+    "ingredients": [
+      {
+        "name": "Salicylic Acid",
+        "benefit": "Commonly used to help keep pores clearer-looking.",
+        "priority": 1,
+        "usage": "Start 2–3 nights per week, then increase if tolerated.",
+        "caution": "Can dry or peel; do not combine with retinoids at first."
+      },
+      {
+        "name": "Niacinamide",
+        "benefit": "May help the look of oiliness and post-breakout marks.",
+        "priority": 2,
+        "usage": "Daily, morning or night.",
+        "caution": ""
+      },
+      {
+        "name": "Azelaic Acid",
+        "benefit": "Can support the appearance of breakouts and uneven tone.",
+        "priority": 3,
+        "usage": "Night, a few times per week to start.",
+        "caution": "May tingle. Not a prescription."
+      }
+    ]
+  },
+  "oily_skin": {
+    "name": "Oily Skin",
+    "description": "Skin that looks shiny or feels greasy, especially in the T-zone.",
+    "aliases": [
+      "oily skin",
+      "oily face",
+      "very oily",
+      "face gets very oily",
+      "my face gets very oily",
+      "greasy",
+      "shiny skin",
+      "oil slick",
+      "too much oil"
+    ],
+    "usage_guidance": "Use a gentle gel cleanser, lightweight moisturizer, and oil-balancing ingredients. Skipping moisturizer can increase shine for some people.",
+    "warnings": ["Avoid harsh stripping washes that leave skin tight."],
+    "ingredients": [
+      {
+        "name": "Niacinamide",
+        "benefit": "May help the appearance of excess oil over time.",
+        "priority": 1,
+        "usage": "Daily serum, 5% is a common starting range.",
+        "caution": ""
+      },
+      {
+        "name": "Salicylic Acid",
+        "benefit": "Commonly used for an oilier, more congested look.",
+        "priority": 2,
+        "usage": "A few times per week at night.",
+        "caution": "Can over-dry if used daily with other actives."
+      },
+      {
+        "name": "Zinc PCA",
+        "benefit": "Can support a less shiny-looking finish in some formulas.",
+        "priority": 3,
+        "usage": "Often in lightweight serums or moisturizers.",
+        "caution": ""
+      }
+    ]
+  },
+  "excess_oil": {
+    "name": "Excess Oil",
+    "description": "Visible shine or sebum that feels like it returns quickly after cleansing.",
+    "aliases": [
+      "excess oil",
+      "excess sebum",
+      "too oily",
+      "sebum",
+      "oil control",
+      "midday shine"
+    ],
+    "usage_guidance": "Lightweight, non-comedogenic moisturizer plus niacinamide is commonly used. Blotting papers can help during the day.",
+    "warnings": ["Over-exfoliating can worsen oiliness for some people."],
+    "ingredients": [
+      {
+        "name": "Niacinamide",
+        "benefit": "May help the look of oiliness.",
+        "priority": 1,
+        "usage": "Daily.",
+        "caution": ""
+      },
+      {
+        "name": "Salicylic Acid",
+        "benefit": "Can support clearer-looking pores in oily areas.",
+        "priority": 2,
+        "usage": "Limited nights per week.",
+        "caution": "Do not stack with retinoids at first."
+      },
+      {
+        "name": "Zinc PCA",
+        "benefit": "Sometimes used to support a more balanced-looking finish.",
+        "priority": 3,
+        "usage": "In leave-on products.",
+        "caution": ""
+      }
+    ]
+  },
+  "blackheads": {
+    "name": "Blackheads",
+    "description": "Open clogged pores that look dark on the surface.",
+    "aliases": [
+      "blackheads",
+      "black heads",
+      "open comedones",
+      "clogged nose pores",
+      "dots on nose"
+    ],
+    "usage_guidance": "Consistent BHA use and sunscreen. Avoid aggressive squeezing.",
+    "warnings": ["Do not combine daily strong acids with retinoids."],
+    "ingredients": [
+      {
+        "name": "Salicylic Acid",
+        "benefit": "Commonly used to help the look of congested pores.",
+        "priority": 1,
+        "usage": "Start 2–3 times weekly at night.",
+        "caution": "Can dry; follow with moisturizer."
+      }
+    ]
+  },
+  "whiteheads": {
+    "name": "Whiteheads",
+    "description": "Closed clogged pores that look like small bumps.",
+    "aliases": [
+      "whiteheads",
+      "white heads",
+      "closed comedones",
+      "small white bumps",
+      "clogged bumps"
+    ],
+    "usage_guidance": "A BHA and, if tolerated later, a retinoid-style ingredient. Introduce one active at a time.",
+    "warnings": [
+      "Adapalene can irritate; start 2–3 nights weekly and use moisturizer.",
+      "Avoid using adapalene with strong acids on the same night."
+    ],
+    "ingredients": [
+      {
+        "name": "Salicylic Acid",
+        "benefit": "May help the appearance of clogged-looking bumps.",
+        "priority": 1,
+        "usage": "A few nights per week.",
+        "caution": "Do not pair with retinoids on the same night when starting."
+      },
+      {
+        "name": "Adapalene",
+        "benefit": "A retinoid-style ingredient commonly used for congestion; introduce slowly.",
+        "priority": 2,
+        "usage": "Night only, 2–3 times weekly at first, moisturizer after (sandwich method if sensitive).",
+        "caution": "Increases sun sensitivity. Not for use in pregnancy unless a clinician advises. Over-the-counter where available; this is not a prescription."
+      }
+    ]
+  },
+  "redness": {
+    "name": "Redness",
+    "description": "Skin that looks flushed, irritated, or easily reddened.",
+    "aliases": [
+      "redness",
+      "red and irritated",
+      "skin is red",
+      "my skin is red and irritated",
+      "flushed",
+      "blotchy red",
+      "rosacea looking",
+      "stinging redness",
+      "irritated",
+      "irritation"
+    ],
+    "usage_guidance": "Simplify the routine: gentle cleanser, soothing serum, barrier moisturizer, mineral-leaning sunscreen if tolerated.",
+    "warnings": ["Skip fragrance, menthol, and strong acids until calm. Spreading redness with fever needs medical care."],
+    "ingredients": [
+      {
+        "name": "Centella Asiatica",
+        "benefit": "Commonly used to support a calmer-looking feel.",
+        "priority": 1,
+        "usage": "Morning and night in serum or cream.",
+        "caution": ""
+      },
+      {
+        "name": "Azelaic Acid",
+        "benefit": "May help the appearance of redness for some people.",
+        "priority": 2,
+        "usage": "Start slowly at night.",
+        "caution": "Can tingle; stop if burning persists."
+      },
+      {
+        "name": "Panthenol",
+        "benefit": "Can support comfort and a less tight-feeling surface.",
+        "priority": 3,
+        "usage": "In moisturizer or serum daily.",
+        "caution": ""
+      }
+    ]
+  },
+  "sensitive_skin": {
+    "name": "Sensitive Skin",
+    "description": "Skin that stings, itches, or reacts easily to products.",
+    "aliases": [
+      "sensitive skin",
+      "sensitive",
+      "reactive skin",
+      "stings",
+      "burns when i apply",
+      "easily irritated",
+      "irritated",
+      "allergy prone skin"
+    ],
+    "usage_guidance": "Fragrance-free basics. Patch test new products. Add only one new product per 1–2 weeks.",
+    "warnings": ["Avoid retinoids and strong acids until the barrier feels stable."],
+    "ingredients": [
+      {
+        "name": "Ceramides",
+        "benefit": "May help support a more comfortable barrier.",
+        "priority": 1,
+        "usage": "Moisturizer twice daily.",
+        "caution": ""
+      },
+      {
+        "name": "Panthenol",
+        "benefit": "Commonly used to soothe a tight or reactive feel.",
+        "priority": 2,
+        "usage": "Serum or cream daily.",
+        "caution": ""
+      },
+      {
+        "name": "Centella Asiatica",
+        "benefit": "Can support a calmer-looking appearance.",
+        "priority": 3,
+        "usage": "Leave-on products, twice daily if tolerated.",
+        "caution": ""
+      }
+    ]
+  },
+  "fine_lines": {
+    "name": "Fine Lines",
+    "description": "Lines that look more visible with dryness or over time.",
+    "aliases": [
+      "fine lines",
+      "wrinkles",
+      "crow's feet",
+      "crows feet",
+      "aging",
+      "anti aging",
+      "crepey",
+      "expression lines"
+    ],
+    "usage_guidance": "Daily SPF, hydration, then a retinoid at night if tolerated. Do not combine with strong acids on the same night.",
+    "warnings": [
+      "Retinol can irritate; start low and slow.",
+      "Retinoids are generally avoided in pregnancy unless a clinician advises."
+    ],
+    "ingredients": [
+      {
+        "name": "Retinol",
+        "benefit": "Commonly used to support the look of texture and fine lines over time.",
+        "priority": 1,
+        "usage": "Night only, 2–3 times weekly at first, moisturizer after. SPF the next day.",
+        "caution": "Do not use with AHA/BHA on the same night when starting. Avoid if pregnant unless advised by a clinician."
+      },
+      {
+        "name": "Peptides",
+        "benefit": "May support a smoother-looking feel with low irritation for many people.",
+        "priority": 2,
+        "usage": "Morning or night under moisturizer.",
+        "caution": ""
+      },
+      {
+        "name": "Hyaluronic Acid",
+        "benefit": "Can plump the look of dryness-related lines by adding water.",
+        "priority": 3,
+        "usage": "On damp skin daily.",
+        "caution": ""
+      }
+    ]
+  },
+  "rough_texture": {
+    "name": "Rough Texture",
+    "description": "Skin that feels bumpy or uneven to the touch.",
+    "aliases": [
+      "rough texture",
+      "uneven texture",
+      "bumpy skin",
+      "rough skin",
+      "not smooth",
+      "texture issues"
+    ],
+    "usage_guidance": "Gentle chemical exfoliation 1–2 times weekly, not daily. Always moisturize and use SPF.",
+    "warnings": ["Do not use glycolic, lactic, and salicylic acids together on the same night. Do not pair with retinol at first."],
+    "ingredients": [
+      {
+        "name": "Lactic Acid",
+        "benefit": "A gentler AHA that may help the look of rough, dull-feeling skin.",
+        "priority": 1,
+        "usage": "Once weekly at night to start, 5–10% if tolerated.",
+        "caution": "Sun sensitivity; SPF next day. Not with retinoids same night."
+      },
+      {
+        "name": "Glycolic Acid",
+        "benefit": "Commonly used for the appearance of uneven texture.",
+        "priority": 2,
+        "usage": "Once weekly at night if lactic acid is tolerated; do not stack with other acids.",
+        "caution": "More irritating than lactic acid. Skip if sensitive or barrier-compromised."
+      },
+      {
+        "name": "Salicylic Acid",
+        "benefit": "Can support smoother-looking congested areas.",
+        "priority": 3,
+        "usage": "Alternate weeks or different nights from AHAs.",
+        "caution": "Do not combine with other strong exfoliants the same night."
+      }
+    ]
+  },
+  "enlarged_pores": {
+    "name": "Enlarged-Looking Pores",
+    "description": "Pores that look more visible, often with oil or congestion.",
+    "aliases": [
+      "enlarged pores",
+      "large pores",
+      "big pores",
+      "visible pores",
+      "pore size",
+      "enlarged-looking pores"
+    ],
+    "usage_guidance": "Oil-balancing and BHA ingredients are commonly used. Pores do not permanently 'close'.",
+    "warnings": ["Avoid harsh scrubs that can make pores look more pronounced."],
+    "ingredients": [
+      {
+        "name": "Niacinamide",
+        "benefit": "May help the appearance of pores over time.",
+        "priority": 1,
+        "usage": "Daily serum.",
+        "caution": ""
+      },
+      {
+        "name": "Salicylic Acid",
+        "benefit": "Commonly used to help keep pores looking clearer.",
+        "priority": 2,
+        "usage": "A few nights per week.",
+        "caution": "Can dry; buffer with moisturizer."
+      }
+    ]
+  },
+  "barrier_damage": {
+    "name": "Barrier Damage",
+    "description": "Skin that feels raw, tight, or stings after many products—often from over-exfoliation.",
+    "aliases": [
+      "barrier damage",
+      "damaged barrier",
+      "compromised barrier",
+      "over exfoliated",
+      "over-exfoliated",
+      "skin barrier",
+      "stripped skin"
+    ],
+    "usage_guidance": "Pause actives. Use a bland cleanser, ceramide moisturizer, and sunscreen only until comfortable.",
+    "warnings": ["Pause retinol, vitamin C, and acids until stinging settles."],
+    "ingredients": [
+      {
+        "name": "Ceramides",
+        "benefit": "Can support barrier comfort.",
+        "priority": 1,
+        "usage": "Rich cream, twice daily.",
+        "caution": ""
+      },
+      {
+        "name": "Panthenol",
+        "benefit": "May help a less tight, less stingy feel.",
+        "priority": 2,
+        "usage": "Serum or cream.",
+        "caution": ""
+      },
+      {
+        "name": "Centella Asiatica",
+        "benefit": "Commonly used in soothing routines.",
+        "priority": 3,
+        "usage": "Leave-on, twice daily if tolerated.",
+        "caution": ""
+      }
+    ]
+  },
+  "sun_damage": {
+    "name": "Sun Damage (appearance)",
+    "description": "Uneven tone or texture that people often associate with sun exposure. Not a medical diagnosis.",
+    "aliases": [
+      "sun damage",
+      "sun damaged",
+      "photoaging",
+      "sun spots",
+      "uv damage"
+    ],
+    "usage_guidance": "Daily broad-spectrum SPF is the priority. Antioxidants in the morning may support appearance.",
+    "warnings": ["This is not a diagnosis of photodamage or skin cancer. Changing moles need a clinician."],
+    "ingredients": [
+      {
+        "name": "Vitamin C",
+        "benefit": "Commonly used in the morning to support a brighter-looking tone alongside sunscreen.",
+        "priority": 1,
+        "usage": "Morning, then SPF 30+.",
+        "caution": "Can sting."
+      },
+      {
+        "name": "Niacinamide",
+        "benefit": "May help the look of uneven tone.",
+        "priority": 2,
+        "usage": "Daily.",
+        "caution": ""
+      },
+      {
+        "name": "Retinol",
+        "benefit": "Can support the look of texture at night if the barrier is healthy.",
+        "priority": 3,
+        "usage": "Night, slowly.",
+        "caution": "SPF next day. Avoid in pregnancy unless advised."
+      }
+    ]
+  },
+  "dark_circles": {
+    "name": "Dark Circles",
+    "description": "Under-eye area that looks darker. Many causes exist (genetics, sleep, shadowing).",
+    "aliases": [
+      "dark circles",
+      "under eye circles",
+      "tired eyes",
+      "dark under eyes"
+    ],
+    "usage_guidance": "Gentle hydration. Caffeine or peptides in eye products are optional. Do not use strong acids near the eyes.",
+    "warnings": ["Sudden dark circles with swelling or pain should be checked medically. Sleep and allergies also matter."],
+    "ingredients": [
+      {
+        "name": "Hyaluronic Acid",
+        "benefit": "May help the look of dryness that can make shadows more obvious.",
+        "priority": 1,
+        "usage": "Light layer, avoid tugging.",
+        "caution": "Keep out of the eye."
+      },
+      {
+        "name": "Peptides",
+        "benefit": "Sometimes used to support a smoother-looking under-eye area.",
+        "priority": 2,
+        "usage": "Night or morning.",
+        "caution": ""
+      },
+      {
+        "name": "Niacinamide",
+        "benefit": "Can support the look of tone for some people.",
+        "priority": 3,
+        "usage": "If the product is eye-safe.",
+        "caution": "Stop if stinging."
+      }
+    ]
+  },
+  "under_eye_puffiness": {
+    "name": "Under-Eye Puffiness",
+    "description": "Puffy-looking under-eyes. Often related to sleep, salt, or allergies—not a diagnosis.",
+    "aliases": [
+      "puffy eyes",
+      "under-eye puffiness",
+      "under eye bags",
+      "eye bags",
+      "swollen under eyes"
+    ],
+    "usage_guidance": "Cool compresses, sleep, and a gentle hydrating eye product. Caffeine serums are optional.",
+    "warnings": ["Sudden swelling with pain, vision change, or fever needs urgent care."],
+    "ingredients": [
+      {
+        "name": "Caffeine (topical)",
+        "benefit": "Sometimes used to support a less puffy-looking appearance temporarily.",
+        "priority": 1,
+        "usage": "Morning, tap gently.",
+        "caution": "Keep out of the eye."
+      },
+      {
+        "name": "Peptides",
+        "benefit": "May support a smoother-looking eye area.",
+        "priority": 2,
+        "usage": "Night.",
+        "caution": ""
+      },
+      {
+        "name": "Hyaluronic Acid",
+        "benefit": "Can help if puffiness is accompanied by dryness.",
+        "priority": 3,
+        "usage": "Light layer.",
+        "caution": "Too much product can pill."
+      }
+    ]
+  },
+  "acne_scars": {
+    "name": "Acne Scars (appearance)",
+    "description": "Textured or marked-looking areas after breakouts. True scarring should be assessed by a dermatologist.",
+    "aliases": [
+      "acne scars",
+      "pitted scars",
+      "ice pick",
+      "rolling scars",
+      "scarred from acne"
+    ],
+    "usage_guidance": "Home care may support the look of marks and texture. Indented scars often need in-clinic options.",
+    "warnings": ["Do not promise scar removal. See a dermatologist for pitted or widespread scarring."],
+    "ingredients": [
+      {
+        "name": "Niacinamide",
+        "benefit": "May help the look of leftover marks.",
+        "priority": 1,
+        "usage": "Daily.",
+        "caution": ""
+      },
+      {
+        "name": "Azelaic Acid",
+        "benefit": "Can support the appearance of discoloration after breakouts.",
+        "priority": 2,
+        "usage": "Night, gradually.",
+        "caution": "May tingle."
+      },
+      {
+        "name": "Retinol",
+        "benefit": "Sometimes used to support the look of texture over time.",
+        "priority": 3,
+        "usage": "Night, slowly, with SPF by day.",
+        "caution": "Irritating; not with acids same night at first."
+      }
+    ]
+  }
+}
